@@ -3,7 +3,7 @@ public class StudentScores {
 	private int numStudents;
 
 	public StudentScores() {
-		Student.scores = new int[MAX_STUDENTS]; // Student Å¬·¡½ºÀÇ scores ¹è¿­ Á¢±Ù
+		Student.scores = new int[MAX_STUDENTS]; // Student í´ë˜ìŠ¤ë¥¼ ì‚¬ìš©í•˜ì—¬ ë°°ì—´ ìƒì„±
 		Student.names = new String[MAX_STUDENTS];
 		numStudents = 0;
 	}
